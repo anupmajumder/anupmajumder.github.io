@@ -33,6 +33,7 @@ interests:
   - Machine Learning
   - Deep Learning
   - Health Informatics
+  - Medical Imaging
 
 # Education to show in About widget
 education:
